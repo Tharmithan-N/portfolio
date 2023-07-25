@@ -19,6 +19,7 @@ function App() {
         </a>
 
         <h1>This is for checking</h1>
+        <h2>Second testing</h2>
       </header>
     </div>
   );
