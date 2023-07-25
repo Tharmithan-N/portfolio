@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+
+        <h1>This is for checking</h1>
       </header>
     </div>
   );
